@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Undergraduate
+comment1.params=
+comment1.target=Undergraduate()
+comment2.params=
+comment2.target=java.lang.String\ getMinor()
+comment3.params=
+comment3.target=java.lang.String\ getMajor()
+comment4.params=
+comment4.target=int\ getCredits()
+comment5.params=minor
+comment5.target=void\ setMinor(java.lang.String)
+comment6.params=major
+comment6.target=void\ setMajor(java.lang.String)
+comment7.params=credits
+comment7.target=void\ setCredits(int)
+comment8.params=
+comment8.target=void\ calculateFees()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
